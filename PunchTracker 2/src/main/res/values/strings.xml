@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PunchTracker 2</string>
+    <string name="no_names">Looks like you have no one to punch yet!\n\nThis needs to change.\n\nClick on the device menu to add someone to harass!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_victim">Add Victim</string>
+    <string name="adding_a_victim">Adding New Victim</string>
+    <string name="confirm">Confirm</string>
+    <string name="victim_name">Victim\'s Name:</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
